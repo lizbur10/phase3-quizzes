@@ -1,6 +1,6 @@
 # Web API Basics with Sinatra
 
-### Intro Topics 
+## Intro Topics 
 * How the request-response cycle works on a server
 * How to handle requests from different routes
 * A common file structure for a web server
