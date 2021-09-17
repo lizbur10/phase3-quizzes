@@ -42,8 +42,6 @@
 * Access data in the request body with the params hash
 * Perform CRUD actions with Active Record from the controller
 
-route (post /recipes) (fill in)
-
 ## Questions
 
 Q: In the request/response cycle, the ______ (usually the browser) sends a
