@@ -51,3 +51,19 @@
 
 * Define aggregate functions and when to use them
 * Use the following aggregate functions in SQL queries: average, sum, count, minimum, maximum
+
+## Questions
+
+Q: Match each tool for interacting with a SQLite database with the descriptions below.
+
+Tools:
+
+1) `sqlite` command line interface tool
+2) VSCode SQLite extension
+3) DB Browser for SQLite application
+
+Options:
+
+a) Easy to run quick commands but no graphical representation of the data
+b) Easy to access and easy to see a graphical representation of the data, but can't run SQL commands
+c) Can run SQL commands and can see a graphical representation of the data, but more work to access
