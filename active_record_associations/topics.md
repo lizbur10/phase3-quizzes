@@ -100,24 +100,24 @@ a) `class` (Not quite. Remember, a teacher **has many** classes)
 *b) `classes` (Yes! A teacher has many classes, so AR provides a `classes` instance method)
 c) `student` (Not quite. Remember, a teacher **has many** students)
 *d) `students` (Yes! A teacher has many students, so AR provides a `students` instance method)
-e) `teacher` (Not quite - you may want to go back and review)
-f) `teachers` (Not quite - you may want to go back and review)
+e) `teacher` (Be sure to study the source/s for this question. You'll get it next time.)
+f) `teachers` (Be sure to study the source/s for this question. You'll get it next time.)
 
 Q: Which of the following methods will Active Record make available to instances
 of the `Student` model? (select all that apply)
 
 a) `class` (Not quite. Remember, a student **has many** classes)
 *b) `classes` (Yes! A student has many classes, so AR provides a `classes` instance method)
-c) `student` (Not quite - you may want to go back and review)
-d) `students` (Not quite - you may want to go back and review)
+c) `student` (Be sure to study the source/s for this question. You'll get it next time.)
+d) `students` (Be sure to study the source/s for this question. You'll get it next time.)
 e) `teacher` (Not quite. Remember, a student **has many** teachers)
 *f) `teachers` (Yes! A student has many teachers, so AR provides a `teachers` instance method)
 
 Q: Which of the following methods will Active Record make available to instances
 of the `Class` model? (select all that apply)
 
-a) `class` (Not quite - you may want to go back and review)
-b) `classes` (Not quite - you may want to go back and review)
+a) `class` (Be sure to study the source/s for this question. You'll get it next time.)
+b) `classes` (Be sure to study the source/s for this question. You'll get it next time.)
 *c) `student` (Yes! A class **belongs to** a student, so AR provides a `student` instance method)
 d) `students` (Not quite. Remember, a class **belongs to** a student)
 *e) `teacher` (Yes! A class **belongs to** a teacher, so AR provides a `teacher` instance method)
